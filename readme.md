@@ -1,3 +1,4 @@
+#Lavoro Gabriele
 ## Ce l'ho, manca!
 
 Problema/Soluzione: Che emozione, ogni volta che apro un pacchetto nuovo... chissà se troverò quella figurina così rara!
@@ -37,8 +38,14 @@ Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’a
 ----------------------------------------------------------
 
 
-#2. Aprire un pacchetto di figurine
+#Team2. Aprire un pacchetto di figurine
+
 ## Ce l'ho, mi manca!
+
+Problema/Soluzione: Che emozione, ogni volta che apro un pacchetto nuovo... chissà se troverò quella figurina così rara!
+Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’album: attacco subito quelle nuove, mentre le doppie le metto in un mazzetto a parte. Ormai ne sto accumulando diverse, spero di riuscire a combinare diversi scambi sabato con i miei amici! 
+
+
 -Prendo il pacchetto in mano
 -Apro il pacchetto
 -Estraggo le figurine
